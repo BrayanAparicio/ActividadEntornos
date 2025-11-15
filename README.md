@@ -1,7 +1,7 @@
-# Integrantes
--Brayan Aparicio
--Leider Esteban
--Neider Piza
+##  Autores
+- Brayan Yecid Aparicio Goyeneche
+- Neider Alirio Piza Basto 
+- Leider Joanny Esteban Lozano
 
 # Solución FullStack – Actividad Entornos
 
