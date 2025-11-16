@@ -78,7 +78,7 @@ La SPA queda en `http://localhost:5173` (ajusta `VITE_API_URL` si el backend cor
 - `GET/POST /api/staff` – alta de personal (solo admin).
 - `GET/PATCH /api/account` – datos del usuario autenticado y preferencias de notificación.
 
-## Paneles (frontend)
+## Paneles (frontend).
 
 ### Administrador/Taquillero
 - **Resumen**: KPI de ventas, ticket promedio y métodos de pago.
